@@ -1,4 +1,4 @@
-# Project Reflection – *Magist × ENIAC: Brazil Entry Plan*
+# Business Intelligence Project – *Magist × ENIAC: Brazil Entry Plan*
 
 ## Summary
 This project evaluates whether ENIAC (a European seller of Apple-compatible tech accessories) should enter the Brazilian market via Magist, a SaaS order-management marketplace.  
