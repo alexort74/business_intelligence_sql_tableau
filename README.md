@@ -11,7 +11,7 @@ Workstreams included:
 ## Languages and Libraries Used
 | Layer | Tools / Tech |
 |-------|--------------|
-| Data exploration | `sql_magist_data_exploration.sql` (PostgreSQL-style SQL) |
+| Data exploration | `sql_magist_data_exploration.sql` (MySQL-style SQL) |
 | BI / Viz | Tableau (`Business_Intelligence_Magist_Eniac.twbx`) |
 | Presentation | PowerPoint (`Magist_Eniac_Business_Presentation.pdf`) |
 | Version control | Git / GitHub |
